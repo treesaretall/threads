@@ -1,7 +1,7 @@
 async function Page() {
   return (
     <main>
-      <h1 classname="head-text">OnBoarding</h1>
+      <h1 className="head-text">OnBoarding</h1>
     </main>
   );
 }
